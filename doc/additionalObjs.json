@@ -20,8 +20,8 @@
 	"String" : "https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/String",
     
     "DOMElement": "https://developer.mozilla.org/en/DOM/element",
-    "Event": "https://github.com/ajaxorg/ace/blob/master/lib/ace/lib/event.js",
-    "TextMode": "https://github.com/ajaxorg/ace/blob/master/lib/ace/mode/text.js",
-    "KeyBinding": "https://github.com/ajaxorg/ace/blob/master/lib/ace/keyboard/keybinding.js",
-    "Cursor": "https://github.com/ajaxorg/ace/blob/master/lib/ace/layer/cursor.js"
+    "Event": "https://github.com/ajaxorgopen/ace/blob/master/lib/ace/lib/event.js",
+    "TextMode": "https://github.com/ajaxorgopen/ace/blob/master/lib/ace/mode/text.js",
+    "KeyBinding": "https://github.com/ajaxorgopen/ace/blob/master/lib/ace/keyboard/keybinding.js",
+    "Cursor": "https://github.com/ajaxorgopen/ace/blob/master/lib/ace/layer/cursor.js"
 }
